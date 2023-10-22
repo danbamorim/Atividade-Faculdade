@@ -1,0 +1,31 @@
+.caixa {
+    color: white;
+    background-color: rgb(255, 100, 255);
+    margin: 10px;
+    padding-top: 164px;
+    padding-right: 390px;
+    padding-bottom: 2px;
+    width: 180px;
+    text-align: center;
+    }
+    
+    
+    .link {
+    text-decoration: none;
+    text-align: left;
+    margin: 20px;
+    letter-spacing: 3px;
+    color: rgb(102, 102, 255);
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    
+    .texto {
+    margin: 20px;
+    }
+    
+    .borda{
+    border-bottom: 1px solid black;
+    margin: 20px;
+    }
+    

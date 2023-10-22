@@ -1,0 +1,55 @@
+.container {
+    margin-top: 20PX;
+    margin: 40PX;
+    margin-bottom: 50px;
+    }
+    
+    .fix1{
+    width: 198px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    height: 41px;
+    display: inline-block;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 23px;
+    border-bottom-left-radius: -7px;
+    border-bottom-right-radius: -7px;
+    background: rgb(255, 255, 0);
+    
+    }
+    .fix2{
+    width: 198px;
+    border-radius: 12px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    height: 41px;
+    display: inline-block;
+    border-top-left-radius: 23px;
+    border-top-right-radius: 23px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background: rgb(255, 255, 0);
+    }
+    .fix3{
+    width: 198px;
+    border-radius: 12px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    height: 41px;
+    display: inline-block;
+    border-top-left-radius: 23px;
+    border-top-right-radius: 23px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background: rgb(255, 255, 0);
+    }
+    
+    .caixa {
+    border: 1px solid black;
+    padding: 170px; 
+    background: rgb(255, 255, 0);
+    }
+    
